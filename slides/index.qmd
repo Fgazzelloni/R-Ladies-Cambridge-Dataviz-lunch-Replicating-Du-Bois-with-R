@@ -14,6 +14,8 @@ format:
     incremental: true
     slide-number: true
 df-print: kable
+page-layout: full
+title-block-banner: false
 ---
 
 
