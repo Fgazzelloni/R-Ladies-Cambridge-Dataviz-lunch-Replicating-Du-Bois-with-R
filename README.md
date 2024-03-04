@@ -14,7 +14,7 @@ Also, a quick look at the **#DuboisChallenge2024** GitHub repo for some extra hi
 ### Material
 
 **Presentation** 
-  - <https://fgazzelloni.quarto.pub/rl-cambridge-dubois/>
+  - [rl-cambridge-dubois presentation](https://fgazzelloni.quarto.pub/unlocking-the-power-of-data-visualization-with-r/duboischallenge/talk.html)
     
 **UNLOCKING THE POWER OF DATA VISUALIZATION WITH R - WebSite**
   - <https://fgazzelloni.quarto.pub/unlocking-the-power-of-data-visualization-with-r/>
